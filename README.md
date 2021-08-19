@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rifkinurfaiz" target="blank"><img src="https://img.shields.io/twitter/follow/rifkinurfaiz?logo=twitter&style=for-the-badge" alt="rifkinurfaiz" /></a> </p>
 
-- 🔭 I’m currently working on [investment feature on Jenius apps](www.jenius.com/en)
+- 🔭 I’m currently working on **investment feature on Jenius apps**
 
 - 🌱 I’m currently learning **AWS Lambda**
 
