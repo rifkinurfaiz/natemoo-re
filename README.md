@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rifki</h1>
-<h3 align="center">Writing code in full stack way</h3>
+<h3 align="center">I write code in full stack way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkinurfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="rifkinurfaiz" /> </p>
 
@@ -12,8 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rifkinurfaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifkinurfaiz" height="30" width="40" /></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifkinurfaiz&show_icons=true&locale=en&layout=compact" alt="rifkinurfaiz" /></p>
 
 ### Spotify Now Playing :headphones:
 
