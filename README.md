@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rifki</h1>
-<h3 align="center">I write code in full stack way</h3>
+<h1 align="left">Hi there...</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkinurfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="rifkinurfaiz" /> </p>
-
-- 🔭 I’m currently working on **investment feature on Jenius apps**
-
-- 🌱 I’m currently learning **AWS Lambda**
-
-- 👯 I’m looking to collaborate on **my project named Kayo, please look at the repo and DM me if you are interested 💬**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
