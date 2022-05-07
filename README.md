@@ -1,11 +1,11 @@
-<h1 align="left">Hi there...</h1>
+<h1 align="left">Hi :wave:, Rifki here </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkinurfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="rifkinurfaiz" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rifkinurfaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifkinurfaiz" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/rifkinurfaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@rifkinurfaiz" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="medium" height="35" width="35" /></a>
+  
+Senior backend engineer with experience in front end stack, architecture, microservices. Having exposured in digital banking domain for more than 3 years.
+<br>
+<br>
 ### Spotify Now Playing :headphones:
 
 <a href="https://spotify-now-playing-xi-snowy.vercel.app/now-playing?open"><img src="https://spotify-now-playing-xi-snowy.vercel.app/now-playing" width="540" height="64" alt="Now Playing"></a>
