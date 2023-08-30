@@ -1,6 +1,6 @@
 <h1 align="left">Hi :wave:, Rifki here </h1>
   
-Senior backend engineer with experience in architecture, design, microservices, and front end stack. Have exposured in digital banking tech stack and domain for more than 4 years. An investment enthusiast.
+Senior backend engineer with experience in architecture, design, microservices, and front end stack. Have exposured in digital banking tech stack and domain for more than 5 years. An investment enthusiast.
 <br>
 <br>
 [![Linkedin: rifkinurfaiz](https://img.shields.io/badge/-rifkinurfaiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rifkinurfaiz/)](https://www.linkedin.com/in/rifkinurfaiz/)
